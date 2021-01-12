@@ -1,0 +1,17 @@
+{
+  "name": "1yxm7t-oladzd",
+  "hash": "Do++bt/Dr8j+CAoLi1hO2B3CDqEy03rcTA8DPYc+T0s=",
+  "description": "API Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/rayanramirez/Documents/PROJECTS/birthday-reminder/.serverless_nextjs/api-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::780724496220:role/1yxm7t-rl4rr5l"
+  },
+  "arn": "arn:aws:lambda:us-east-1:780724496220:function:1yxm7t-oladzd",
+  "region": "us-east-1"
+}

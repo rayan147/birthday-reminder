@@ -1,0 +1,17 @@
+{
+  "name": "1yxm7t-cjhhvjl",
+  "hash": "eJoOWL/3VRD5vBfRS780LoHqABn/+v0lPG9ySkiYs6E=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/rayanramirez/Documents/PROJECTS/birthday-reminder/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::780724496220:role/1yxm7t-utog2ob"
+  },
+  "arn": "arn:aws:lambda:us-east-1:780724496220:function:1yxm7t-cjhhvjl",
+  "region": "us-east-1"
+}

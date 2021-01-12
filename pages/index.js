@@ -36,7 +36,7 @@ export default function Home() {
       </Head>
        <main>
       <section className='container'>
-        <h3 className="load">Top 25 cryptos</h3>
+        <h3 className="load">Top 20 cryptos</h3>
         <List coins={data} />
       </section>
     </main>
