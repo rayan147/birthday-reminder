@@ -11,4 +11,4 @@ it is a next app ,so it will try to open on port **3000**
 * Nextjs
 * SWR
 ## Working Demo
-[cryptoboard] (https://cryptoboard.rayanr.com/)
+https://cryptoboard.rayanr.com/
