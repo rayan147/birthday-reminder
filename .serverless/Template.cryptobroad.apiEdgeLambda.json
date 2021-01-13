@@ -1,10 +1,10 @@
 {
   "name": "1yxm7t-oladzd",
-  "hash": "Do++bt/Dr8j+CAoLi1hO2B3CDqEy03rcTA8DPYc+T0s=",
+  "hash": "CEHsuuSeNl6iyyfElIRKFsfQXOVdRCbJESJuWU+QMqk=",
   "description": "API Lambda@Edge for Next CloudFront distribution",
   "memory": 512,
   "timeout": 10,
-  "code": "/Users/rayanramirez/Documents/PROJECTS/birthday-reminder/.serverless_nextjs/api-lambda",
+  "code": "/Users/rayanramirez/Documents/PROJECTS/cryptoboard/.serverless_nextjs/api-lambda",
   "shims": [],
   "handler": "index.handler",
   "runtime": "nodejs12.x",

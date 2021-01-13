@@ -1,10 +1,10 @@
 {
   "name": "1yxm7t-cjhhvjl",
-  "hash": "eJoOWL/3VRD5vBfRS780LoHqABn/+v0lPG9ySkiYs6E=",
+  "hash": "Qo1DSI5zP1zodX+imYJ5LJ3QsVW7TuyEZig2RaVE9wI=",
   "description": "Default Lambda@Edge for Next CloudFront distribution",
   "memory": 512,
   "timeout": 10,
-  "code": "/Users/rayanramirez/Documents/PROJECTS/birthday-reminder/.serverless_nextjs/default-lambda",
+  "code": "/Users/rayanramirez/Documents/PROJECTS/cryptoboard/.serverless_nextjs/default-lambda",
   "shims": [],
   "handler": "index.handler",
   "runtime": "nodejs12.x",
